@@ -1,0 +1,14 @@
+1. Euler problem #1 in Haskell
+2. Euler problem #2 in Haskell
+3. Euler problem #3 in Haskell
+4. Euler problem #4 in Haskell
+5. 2D pong game in c++
+6. tic tac toe with ai
+7. beat sequencer (potentionally add in midi later)
+8. Euler problem #59 in Haskell
+9. calculating pi by calculating angles and summating them
+10. program that would read programs and scan for them (had flaws, didn't build github support like I should have)
+11. Template meta-programming turing machine
+12. Conways game of life
+13. BF (brainfuck) interpeter
+14. all problems (And I mean every single one) from learning c++ in 21 days
